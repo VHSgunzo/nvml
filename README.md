@@ -1,1 +1,1 @@
-# NVIDIA Management Library wrapper for Lutris Wine
+# NVIDIA Management Library wrapper for Lux Wine
